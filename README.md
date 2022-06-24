@@ -24,9 +24,10 @@
 
 &nbsp;
 
-[Descarga el proyecto](https://daveadbeel.github.io/FrontEndMentor-Componente-de-calificacion-interactivo/)
+[Descarga el proyecto](https://github.com/DaveAdbeel/App_tabla_multiplicar_NodeJS/archive/refs/heads/master.zip)
 
-![Diseño sin título](https://repository-images.githubusercontent.com/505240484/ff33c110-7942-4f10-997f-a7f0ad6b47b9)
+![Diseño sin título](https://user-images.githubusercontent.com/91069463/175447653-b8c97730-3e34-4ee6-9beb-00ef28494d34.PNG)
+
 
 &nbsp;
 
