@@ -1,6 +1,5 @@
 ## Node multiplication table app ![Status badge](https://img.shields.io/badge/status-Finished-green)
 
-<h1></h1>
 
 ⚡️ Desarrolle este proyecto con el proposito de aprender y practicar node.
 
@@ -10,7 +9,6 @@
 
 ## Construido con
 
-<h1></h1>
 
 - JavasCript  
 - Node JS
@@ -20,7 +18,6 @@
 
 ## Que aprendí
 
-<h1></h1>
 
 - Uso de promises y async await
 - Uso de la libreria yargs y colors 
