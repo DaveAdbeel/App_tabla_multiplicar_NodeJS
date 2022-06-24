@@ -1,0 +1,15 @@
+{
+    "name": "3.-bases-de-node-js",
+    "version": "0.0.1",
+    "description": "Aplicacion que muestra la tabla de multiplicar que quieras",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "David Astudillo",
+    "license": "MIT",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "yargs": "^17.5.1"
+    }
+}
