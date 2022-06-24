@@ -3,7 +3,7 @@
 
 ⚡️ Desarrolle este proyecto con el proposito de aprender y practicar node.
 
-✨ Este proyecto es un challenge de el [curso de node](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI) que estoy realizando
+✨ Este proyecto es un challenge de el [curso de node](https://www.udemy.com/course/node-de-cero-a-experto/) que estoy realizando
 
 &nbsp;
 
