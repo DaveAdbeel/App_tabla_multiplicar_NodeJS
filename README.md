@@ -7,20 +7,20 @@
 
 &nbsp;
 
-## Construido con
+## <span style="color:#09e; font-weight:bold;">Construido con</span>
 
 
-- JavasCript  
-- Node JS
-- Libreria Yargs y Colors
+- <span style="color:#ff0;">JavaScript</span>
+- <span style="color:#9f9">NodeJS</span>
+- Libreria [Yargs](https://yargs.js.org/) y [Colors](https://github.com/Marak/colors.js)
  
 &nbsp; 
 
-## Que aprendí
+## <span style="color:#9f0; font-weight:bold;">Que aprendí</span>
 
 
-- Uso de promises y async await
-- Uso de la libreria yargs y colors 
+- Uso de <span style="color:#f0s0;">promises</span> y <span style="color:#f00;">async await</span>
+- Uso de la libreria [Yargs](https://yargs.js.org/) y [Colors](https://github.com/Marak/colors.js) 
 
 &nbsp;
 
@@ -28,16 +28,15 @@
 
 ![Diseño sin título](https://user-images.githubusercontent.com/91069463/175447653-b8c97730-3e34-4ee6-9beb-00ef28494d34.PNG)
 
-
 &nbsp;
 
-## Prerequisitos
+## <span style="color:#ff0; font-weight:bold;">Pre-requisitos</span>
 
 - Tener instalado node JS y npm en tu computadora
 
 &nbsp;
 
-## Uso de la app
+## <span style="color:#9f0; font-weight:bold;">Uso de la app</span>
 
 - Descarga el repositorio en una carpeta especifica
 
@@ -45,9 +44,11 @@
 
 - Abre la carpeta desde tu terminal preferida
 
-- Ejecuta el comando npm i o npm install para instalar las dependencias
-  
+- Ejecuta el comando <code>npm install o npm i</code> para instalar las dependencias
 
+
+- Luego de eso ejecuta <code> node app --help</code>  para ver los comandos disponibles
+  
 &nbsp;
 
 ## 🧾 License
